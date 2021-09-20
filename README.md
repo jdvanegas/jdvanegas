@@ -1,6 +1,6 @@
 Soy Juan David, Desarrollador .NET enfocado en .NET Core, .NET Framework, Javascript, ReactJS apacionado por el desarrollo de aplicaciones, buscando aplicar las mejores practicas.
 
-- 📫 Conéctate y comunícate conmigo vía [LinkedIn](https://www.linkedin.com/in/vladperchi).
+- 📫 Conéctate y comunícate conmigo vía [LinkedIn](https://www.linkedin.com/in/jdvanegas).
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=jdvanegas" alt="jdvanegas" /> 
